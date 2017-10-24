@@ -36,10 +36,10 @@ The CSS
 ```
 
 Let's explain the CSS above.
-First, by using @media (min-width: 840px) we are saying that all the css propreties that follow inside the curly brackets will apply only to media that has minimum width of 840px. 
+So, by using @media (min-width: 840px) we are saying that all the css propreties that follow inside the curly brackets will apply only to media that has minimum width of 840px. 
 This means that on devices that do not have this width, the div we created earlier will not have the properties stated in the code above.
 
-
+As we can see in the Media Queries Syntax the CSS Code related to a particular device it will be written inside of the curly braces.
 
 #### Suggested Reading:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
